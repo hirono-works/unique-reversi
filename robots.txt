@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unique-reversi.vercel.app/sitemap.xml
